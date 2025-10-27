@@ -34,7 +34,7 @@ export default function App() {
         <Outlet />
       </Container>
       <Box sx={{ textAlign: 'center', py: 2, color: 'text.secondary' }}>
-        <Typography variant="caption">Built with React + MUI • Export to PDF • Image upload</Typography>
+        <Typography variant="caption"> WELCOM TO RESUME BUILDER for free</Typography>
       </Box>
     </Box>
   )

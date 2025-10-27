@@ -21,14 +21,14 @@ export type ResumeData = {
 
 const defaultData: ResumeData = {
   photo: null,
-  firstName: 'Nandhakumar',
-  lastName: 'S',
-  email: 'nandha@example.com',
-  phone: '+91 90000 00000',
-  location: 'Chennai, IN',
-  headline: 'Full-Stack Developer',
-  summary: 'Passionate developer with experience in React, Node, and Python.',
-  skills: ['React', 'TypeScript', 'Node.js', 'Python', 'PostgreSQL'],
+  firstName: '',
+  lastName: '',
+  email: '',
+  phone: '',
+  location: '',
+  headline: '',
+  summary: '',
+  skills: [],
   experience: [],
   education: [],
   projects: []
